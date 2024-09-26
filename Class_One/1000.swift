@@ -9,6 +9,7 @@ import Foundation
 
 final class Q1000 {
     static func solved() {
-        print("Test Class")
+        let input = readLine()!.split(separator: " ").map { Int($0)! }
+        print(input.reduce(0, +))
     }
 }
