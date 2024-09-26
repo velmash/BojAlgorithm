@@ -7,4 +7,4 @@
 
 import Foundation
 
-Q1000.solved()
+Q2439.solved()
