@@ -23,14 +23,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		3A8AAB752CA4F9B200719F84 /* Class_One */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Class_One;
+			sourceTree = "<group>";
+		};
 		3A9CEBE22CA4DC5B007155D6 /* BojAlgorithm */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = BojAlgorithm;
-			sourceTree = "<group>";
-		};
-		3A9CEBEB2CA4DC6D007155D6 /* Class_One */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Class_One;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -50,7 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				3A9CEBE22CA4DC5B007155D6 /* BojAlgorithm */,
-				3A9CEBEB2CA4DC6D007155D6 /* Class_One */,
+				3A8AAB752CA4F9B200719F84 /* Class_One */,
 				3A9CEBE12CA4DC5B007155D6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -79,8 +79,8 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				3A8AAB752CA4F9B200719F84 /* Class_One */,
 				3A9CEBE22CA4DC5B007155D6 /* BojAlgorithm */,
-				3A9CEBEB2CA4DC6D007155D6 /* Class_One */,
 			);
 			name = BojAlgorithm;
 			packageProductDependencies = (
